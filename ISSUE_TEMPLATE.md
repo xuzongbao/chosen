@@ -4,8 +4,6 @@ Please read our [Contributing Guidelines](https://github.com/harvesthq/chosen/bl
 Following these guidelines will help us get back to you more quickly, and will show that you care about making Chosen better just like we do!
 -->
 
----
-
 ## Bug Report Template
 
 Describe your issue here.

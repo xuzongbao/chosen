@@ -1,16 +1,16 @@
+<!---
 Please read our [Contributing Guidelines](https://github.com/harvesthq/chosen/blob/master/contributing.md) before opening this bug report or feature request.
 
 Following these guidelines will help us get back to you more quickly, and will show that you care about making Chosen better just like we do!
-
+-->
 
 ---
 
 ## Bug Report Template
 
-### Subject of the issue
 Describe your issue here.
 
-### Your environment
+### My environment
 A summary of the issue and the browser/OS environment in which it occurs.
 
 ### Steps to reproduce
@@ -37,7 +37,6 @@ See [here](https://github.com/harvesthq/chosen/blob/master/contributing.md#bug-r
 
 ## Feature Request Template
 
-### Description
 A description of the problem you're trying to solve, including *why* you think this is a problem, please add as much detail as possible.
 
 ### Proposed Solution

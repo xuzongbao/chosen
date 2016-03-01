@@ -18,7 +18,7 @@ Tell us how to reproduce this issue.
 2. This is the second step
 3. Further steps, etc.
 
-Please provide a working demo, you can use [this template](https://jsfiddle.net/Pezmc/5v3v353z/) as a base.
+Please provide a working demo, you can use [this template](https://jsfiddle.net/hyktf3he) as a base.
 
 ### Expected behaviour
 Tell us what should happen.

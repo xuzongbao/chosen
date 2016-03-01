@@ -1,11 +1,9 @@
+<!---
 Good pull requests &mdash; patches, improvements, new features &mdash; are a fantastic help.
 They should remain focused in scope and avoid containing unrelated commits.
 
 Please follow our [code conventions](https://github.com/harvesthq/chosen/blob/master/contributing.md#code-conventions) before submitting your work. Adhering to these guidelines is the best way to get your work included in Chosen.
-
-
----
-
+-->
 
 ## Pull Request Template
 
